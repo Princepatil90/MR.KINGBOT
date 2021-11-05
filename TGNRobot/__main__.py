@@ -77,7 +77,7 @@ PM_START_TEXT = """ ʜɪɪ [❤️](https://telegra.ph/file/77813d0c08984a311aa7
 ╭──╼❀⊰ [ 𓄂I AM MINE CRAFT ROBOT࿐](https://t.me/MINE_CRAFT_ROBOT)
 ┻━━━━━━━━━━━━━━━━━━⊰✿
 ❖ *ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ*.
-❖ *ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ*! ʜɪᴛ /help .
+❖ *ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ*! ʜɪᴛ /help . JOIN😎 @STUDY_FLOWER_QUIZ_GROUP
 """
 buttons = [
     [
@@ -85,9 +85,9 @@ buttons = [
             text="😁ꜱɪʀ ᴋɪᴅɴᴀᴘ ᴍᴇ ᴘʟᴇᴀꜱᴇ😅", url="t.me/MINE_CRAFT_ROBOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝖮𝖶𝖭𝖤𝖱😏", url=f"https://t.me/Princepatil96k"),
+        InlineKeyboardButton(text="𝖮𝖶𝖭𝖤𝖱🎀", url=f"https://t.me/Princepatil96k"),
         InlineKeyboardButton(
-            text="🅰️BOUT ME", url=f"https://t.me/STUDY_FLOWER"),
+            text="POWERED BY😎", url=f"https://t.me/STUDY_FLOWER"),
     ],
     [
         InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ & ɴᴇᴡꜱ☑️", url=f"https://t.me/MR_Prince_music"),
@@ -109,7 +109,7 @@ HELP_STRINGS = """┏━━━━━━「 ✿✿✿ 」━━━━━━┓
                    [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/MR_Prince_music)
 ┗━━━━━━「 ✿✿✿ 」━━━━━━━┛
 
-❤️ ᴀʟꜱᴏ ᴊᴏɪɴ » [@ᴠᴋᴛɢʙᴏᴛᴢ](https://t.me/KING_PRINCE_SUPPORT)"""
+❤️ ᴀʟꜱᴏ ᴊᴏɪɴ » [🎀💝ᴘʀɪɴᴄᴇ ᴘᴀᴛɪʟ💝🎀](https://t.me/KING_PRINCE_SUPPORT)"""
 
 START_IMG = "https://telegra.ph/file/77813d0c08984a311aa7e.jpg"
 
@@ -225,7 +225,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code> 𓄂MR.PROBOT࿐ is Here For You❤\nI 🅰️m 🅰️wake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code> 𓄂MINE CRAFT ROBOT࿐ is Here For You❤\nI 🅰️m 🅰️wake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
@@ -360,7 +360,7 @@ def layla_about_callback(update, context):
     query = update.callback_query
     if query.data == "layla_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *MR.KINGBOT*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *MINE CRAFT ROBOT*, a powerful group management bot built to help you manage your group easily.
                  \n➥ I can restrict users.
                  \n➥ I can greet users with customizable welcome messages and even set a group's rules.
                  \n➥ I have an advanced anti-flood system.
@@ -368,7 +368,7 @@ def layla_about_callback(update, context):
                  \n➥ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n➥ I check for admins' permissions before executing any command and more stuffs
                  \n\n_TGN's licensed under the GNU General Public License v3.0_
-                 \nHere is the [💾Repository](https://github.com/Viju60/MR.KINGBOT).
+                 \nHere is the [💾Repository](https://github.com/Princepatil90/MR.KINGBOT).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -395,8 +395,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *MR.PROBOT*
-                 \nHere is the [REPO](https://t.me/VkTgBotz) .""",
+            text=""" Hi..🤗 I'm *MINR CRAFTROBOT*
+                 \nHere is the [REPO](https://t.me/KING_PRINCE_SUPPORT) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
