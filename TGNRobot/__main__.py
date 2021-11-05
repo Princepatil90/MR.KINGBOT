@@ -90,7 +90,7 @@ buttons = [
             text="🅰️BOUT ME", url=f"https://t.me/STUDY_FLOWER"),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ & ɴᴇᴡꜱ☑️", url=f"https://t.me/VkTgBotz"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ & ɴᴇᴡꜱ☑️", url=f"https://t.me/MR_Prince_music"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤗", url=f"https://t.me/KING_PRINCE_SUPPORT"),
     ],
@@ -106,7 +106,7 @@ HELP_STRINGS = """┏━━━━━━「 ✿✿✿ 」━━━━━━┓
       ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ
                       ᴀ ʙᴜᴛᴛᴏɴ..
       ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ
-                   [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/VkTgBotSupport)
+                   [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/MR_Prince_music)
 ┗━━━━━━「 ✿✿✿ 」━━━━━━━┛
 
 ❤️ ᴀʟꜱᴏ ᴊᴏɪɴ » [@ᴠᴋᴛɢʙᴏᴛᴢ](https://t.me/KING_PRINCE_SUPPORT)"""
